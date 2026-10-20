@@ -1,0 +1,6 @@
+{
+  "name": "OmniDownloader",
+  "description": "High-quality video and audio downloader for YouTube, TikTok, Instagram, X (Twitter), and Reddit with multi-resolution format support and media manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
